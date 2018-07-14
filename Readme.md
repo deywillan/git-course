@@ -1,4 +1,4 @@
-# Git Course
+# Git e Github para iniciantes
 
 Bem Vindo! 
 
