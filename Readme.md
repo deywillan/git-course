@@ -1,3 +1,5 @@
 # Git Course
 
-Este é um repositorio teste para aprender o Git
+Este é um repositorio teste para aprender o Git.
+
+Deywillan Mattos
